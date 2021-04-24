@@ -1,7 +1,7 @@
 // Hej Helena!
 
 /* This is my answer to the question:
- Parentheses are needed because multiplication and subtraction both have the precedence number 16. With addition instead of multiplication, for example, instead, this wouldn't be a problem, because addition has a lower precedence number than subtraction. With the same precedence number, JS wouldn't know which to execute first. */
+ Parentheses are needed because multiplication and subtraction both have the precedence number 16. With addition instead of multiplication, for example, this wouldn't be a problem, because addition has a lower precedence number than subtraction. With the same precedence number, JS wouldn't know which to execute first and I might get the "correct" answer. */
 
 /* Answer the question why JavaScript needs the parentheses in thiscase? You can put your answer as plain text when you hand in theassignment.
 
